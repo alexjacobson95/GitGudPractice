@@ -1,6 +1,6 @@
 # https://docs.python.org/3/howto/curses.html
 
-import curses
+# import curses
 
 def display_popup(msg):
     print(msg)

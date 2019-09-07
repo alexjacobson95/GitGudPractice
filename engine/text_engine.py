@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # https://docs.python.org/3/howto/curses.html
 import curses
 
@@ -42,3 +43,19 @@ def run_test(main_window):
 
 if __name__ == '__main__':
     curses.wrapper(run_test)
+=======
+# https://docs.python.org/3/howto/curses.html
+
+# import curses
+
+def display_popup(msg):
+    print(msg)
+
+
+def main():
+    pass
+
+
+if __name__ == '__main__':
+    main()
+>>>>>>> 035de226ce24114645e7a57b3cf3e7102f142122
